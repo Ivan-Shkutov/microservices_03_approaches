@@ -79,7 +79,7 @@
 
 9. Параллельное выполнение сборок и тестов.
 
-![1]()
+![1](https://github.com/Ivan-Shkutov/microservices_03_approaches/blob/main/1.png)
 
 
  - - - - - - - - - - - - - - - - 
