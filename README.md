@@ -157,6 +157,8 @@
         - Управление доступом через роли и права (RBAC).
 
 
+![2](https://github.com/Ivan-Shkutov/microservices_03_approaches/blob/main/2.png)
+
  - - - - - - - - - - - - - - - - 
 
 
